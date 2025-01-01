@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome To AITS-Rajampet</title>
+<marquee>
+<center>  AUTONOMOUS </center>
+</marquee>
+
+</head>
+<body>
+
+<h1>Empowering Minds,Building Futures</h1>
+<p>At AITS-Rajampet.Webelive in the power of education to transform lives ans shope a bright future Embrance the journey.Overcame Challenges and strive for excelience.<br><br>
+
+ational journey at AITS-Rajampet be a stepping stone towards sucess and fulfillment.
+</p>
+
+
+</body>
+</html>
