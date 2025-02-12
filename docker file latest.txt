@@ -1,0 +1,10 @@
+ARG NGINX_VERSION=latest
+FROM nginx:${NGINX_VERSION}
+ADD index.html /user/share/nginx/html/index.html
+WORKDIR ["nginx","-g","deemon off:"]
+EXPOSE 80
+LABEL description="sheshu"
+ENV APP_VERSION=1.0
+
+docker build -t myimage .
+docker run -d -p 81:80 --name mycontainer myimage:latest
